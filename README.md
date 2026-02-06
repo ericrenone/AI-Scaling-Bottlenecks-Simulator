@@ -1,5 +1,6 @@
 # AI Scaling Bottlenecks Simulator
 
+The simulator confirms that while the Scaling Laws remain mathematically valid, the Physical Substrate is nearing a phase transition. Future gains will likely derive from architectural ingenuity rather than sheer capital expenditure.
 
 ## Overview
 
